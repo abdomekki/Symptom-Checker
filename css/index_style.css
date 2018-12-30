@@ -1,0 +1,380 @@
+#checker{
+
+}
+
+img{
+    width: 100%;
+    height: 100%;
+}
+.image
+{
+    padding-top: 50px;
+}
+#checker .header
+{
+    border-bottom: 5px solid blue;
+    padding-bottom: 10px;
+}
+
+#checker ul{
+    list-style-type: none;
+    padding: 0;
+    border: 1px solid rgba(0,0,0,0.1);
+}
+#checker ul li{
+    padding: 15px 5px;
+      border-bottom:1px solid rgba(0,0,0,0.1);
+    cursor: pointer;
+}
+
+
+#checker ul li:hover
+{
+    background-color: #b5d1dc;
+    color: white;
+}
+
+#checker .symp
+{
+    display: none;
+}
+
+
+
+
+
+
+.navbar-nav
+{
+    float: right;
+}
+
+
+.card
+{
+    text-align: center;
+   background-image: url(../images/adult-business-care-305565.jpg);
+    background-size: 100%;
+    background-attachment: fixed;
+     border-color: white;
+}
+
+.opacity
+{
+    
+    background-color: rgba(0,0,0,.4);
+    height: 100%;
+    width: 100%;
+}
+.gedner{
+    display: block
+}
+#age
+{
+    width: 10%;
+    margin: auto;
+    text-align: center;
+}
+.autocomplete
+{
+    display: block;
+    margin: auto;
+    margin-bottom: 10px;
+    width: 350px;
+}
+
+.text-muted p , .card-text , label
+{
+    color: azure;
+}
+.card-title
+{
+    padding: 50px 30px;
+    color: #05a2d3;
+}
+.card-text
+{
+    font-size: 22px;
+    line-height: 30px;
+    padding-bottom: 20px;
+    padding-left: 10%;
+    padding-right: 10%;
+    
+}
+.navbar-brand
+{
+    
+}
+.btn2
+{
+    width: 350px;
+    height: 50px;
+}
+.commonly
+{
+    cursor: pointer;
+}
+.com
+{
+    color: #05a2d3;
+    margin: 20px;
+
+}
+.modal-body
+{
+    color: darkslategray;
+    
+}
+.commonlySymptoms h2
+{
+    text-align: center;
+    margin: 30px;
+}
+
+.sym
+{
+    display: none;
+}
+
+
+
+
+.social li
+{
+    list-style: none;
+}
+
+#hire-me p  , #hire-me i
+{
+    color: gray;
+}
+
+ #hire-me i{
+    font-size: 15px;
+}
+
+#hire-me p a
+{
+    color: #17a2b8;
+}
+#hire-me p a:hover
+{
+    text-decoration: none;
+    color: #17a2b8;
+}
+
+#hire-me h4 ,#hire-me h2
+{
+    color: black;
+}
+#hire-me h4
+{
+    font-size: 18px;
+    font-weight: 700;
+    text-transform: uppercase;
+    margin-bottom: 15px;
+}
+
+
+#hire-me h2
+{
+    font-size: 2.5em;
+    font-weight: 700;
+    margin-bottom: 15px;
+    line-height: 1.1;
+}
+
+
+
+section .social_icons{
+    padding-top: 35px;
+    border-top: 1px solid #fafafa;
+}
+section .social_icons ul {
+    list-style: none;
+    margin-left: -25px;
+}
+section .social_icons li {
+    display: inline-block;
+}
+section .social_icons a {
+    display: block;
+    width: 40px;
+    height: 40px;
+    line-height: 42px;
+    margin-right: 10px;
+    margin-bottom: 15px;
+    font-size: 300;
+    text-align: center;
+    border: 1px solid #999999;
+    color: #777777;
+}
+
+
+h5
+{
+    border-bottom: solid 2px;
+    border-color: #05a2d3;
+}
+#modal
+{
+    display: none;
+    position: absolute;
+    top: 550px;
+    left: 200px;
+    width: 70%;
+    background-color: white;
+    border: solid 2px black;
+    border-color: #05a2d3;
+    border-radius: 10px;
+    
+}
+#modal-2
+{
+    display: none;
+    position: absolute;
+    top: 550px;
+    left: 200px;
+    width: 70%;
+    background-color: white;
+        text-align: center;
+    border: solid 2px black;
+    border-color: #05a2d3;
+    border-radius: 10px;
+
+    
+}
+#modal-3
+{
+    display: none;
+    position: absolute;
+    top: 550px;
+    left: 200px;
+    width: 70%;
+    background-color: white;
+    text-align: center;
+    border: solid 2px black;
+    border-color: #05a2d3;
+    border-radius: 10px;
+    
+    
+}
+#modal-4
+{
+    display: none;
+    position: absolute;
+    top: 550px;
+    left: 200px;
+    width: 70%;
+    background-color: white;
+    text-align: center;
+    border: solid 2px black;
+    border-color: #05a2d3;
+    border-radius: 10px;
+    
+    
+}
+#modal-5
+{
+    display: none;
+    position: absolute;
+    top: 550px;
+    left: 200px;
+    width: 70%;
+    background-color: white;
+    text-align: center;
+    
+    border: solid 2px black;
+    border-color: #05a2d3;
+    border-radius: 10px;
+}
+#modal-6
+{
+    display: none;
+    position: absolute;
+    top: 550px;
+    left: 200px;
+    width: 70%;
+    background-color: white;
+    text-align: center;
+    border: solid 2px black;
+    border-color: #05a2d3;
+    border-radius: 10px;
+    
+}
+#modal-7
+{
+    display: none;
+    position: absolute;
+    top: 550px;
+    left: 200px;
+    width: 70%;
+    background-color: white;
+    text-align: center;
+    
+    border: solid 2px black;
+    border-color: #05a2d3;
+    border-radius: 10px;
+}
+#modal-8
+{
+    display: none;
+    position: absolute;
+    top: 550px;
+    left: 200px;
+    width: 70%;
+    background-color: white;
+    text-align: center;
+    border: solid 2px black;
+    border-color: #05a2d3;
+    border-radius: 10px;
+    
+}
+#modal-9
+{
+    display: none;
+    position: absolute;
+    top: 550px;
+    left: 200px;
+    width: 70%;
+    background-color: white;
+    text-align: center;
+    border: solid 2px black;
+    border-color: #05a2d3;
+    border-radius: 10px;
+    
+}
+.commonly-2
+{
+        cursor: pointer;
+
+}
+.commonly-3
+{
+        cursor: pointer;
+
+}.commonly-4
+{
+        cursor: pointer;
+
+}.commonly-5
+{
+        cursor: pointer;
+
+}.commonly-6
+{
+        cursor: pointer;
+
+}.commonly-7
+{
+        cursor: pointer;
+
+}.commonly-8
+{
+        cursor: pointer;
+
+}.commonly-9
+{
+        cursor: pointer;
+
+}
